@@ -1,13 +1,12 @@
-# ETC: Modeling Uncertainty Trends for Timely Retrieval in Dynamic RAG
-
 <div align="center">
+ 
+**ETC: Modeling Uncertainty Trends for Timely Retrieval in Dynamic RAG**
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.16463)
 [![Venue](https://img.shields.io/badge/AAAI-2026-blue.svg)](https://aaai.org/conference/aaai/aaai-26/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
-
-**ETC: Modeling Uncertainty Trends for Timely Retrieval in Dynamic RAG**  
-**AAAI 2026 Oral**
+ 
+**AAAI 2026, Oral**
 
  <a href="https://deepblue666.github.io/">Bo Li</a>, Tian Tian, Zhenghua Xu, Hao Cheng, Shikun Zhang, Wei Ye
 
