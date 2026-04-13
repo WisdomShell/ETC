@@ -346,6 +346,22 @@ ETC 依赖 SpaCy 做停用词过滤，请确认 `en_core_web_sm` 已安装。
 
 ---
 
+## 🧭 Related RAG Projects
+
+本仓库属于我们围绕 **可控、可适应 Retrieval-Augmented Generation（RAG）** 展开的系列研究工作之一。
+
+- **GRIP** [ACL 2026 Main Conference]: [Retrieval as Generation: A Unified Framework with Self-Triggered Information Planning](https://github.com/WisdomShell/GRIP)  
+  一个 **training-based 的动态 RAG** 框架，将检索控制内化到 token-level decoding 中。  
+
+- **ETC** [AAAI 2026 Oral Paper]: [Modeling Uncertainty Trends for Timely Retrieval in Dynamic RAG](https://github.com/WisdomShell/ETC)  
+  一个 **training-free 的动态 RAG** 方法，重点通过建模解码过程中的熵趋势来改进检索时机。  
+
+- **SCD** [AAAI 2026 Oral Paper]: [Language Drift in Multilingual Retrieval-Augmented Generation](https://github.com/WisdomShell/SCD)  
+  一个 **training-free 的多语言 RAG** 方法，通过 decoding-time control 缓解语言漂移问题。  
+
+这些项目共同覆盖了 RAG 的三个互补方向：  
+**training-based retrieval planning、training-free retrieval timing，以及 multilingual generation 的 decoding-time control**。
+
 ## 📖 引用
 
 ```bibtex
